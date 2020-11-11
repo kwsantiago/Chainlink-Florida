@@ -240,6 +240,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
+  background-color: white;
 	padding: 100px 0;
 }
 #about h3 {
