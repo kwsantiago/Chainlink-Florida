@@ -76,16 +76,16 @@ hr {
 }
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	font-size: 24px;
+	font-size: 25px;
 	font-weight: 700;
-	color: #333;
+	color: rgb(42, 90, 218);
 	text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	color: #555;
-	font-size: 15px;
+	color: rgb(42, 90, 218);
+	font-size: 20px;
 	font-weight: 400;
 	padding: 8px 2px;
 	border-radius: 0;
@@ -210,8 +210,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro p {
 	color: #fff;
-	font-size: 22px;
-	font-weight: 300;
+	font-size: 25px;
+	font-weight: 370;
 	line-height: 30px;
 	margin: 0 auto;
 	margin-bottom: 60px;
@@ -240,7 +240,6 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  background-color: white;
 	padding: 100px 0;
 }
 #about h3 {
