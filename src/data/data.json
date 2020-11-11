@@ -6,19 +6,8 @@
 
     },
     "About": {
-        "paragraph": "Building a truly valuable smart contract requires the use of multiple inputs to prove contractual performance, as well as multiple outputs to affect outside systems and/or send payment to complete the smart contract. Chainlink provides your smart contract with the inputs and outputs it needs to reach its full potential.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
+        "paragraph1": "Building a truly valuable smart contract requires the use of multiple inputs to prove contractual performance, as well as multiple outputs to affect outside systems and/or send payment to complete the smart contract. Chainlink provides your smart contract with the inputs and outputs it needs to reach its full potential.",
+        "paragraph2": "Chainlink’s decentralized oracle network provides the same security guarantees as smart contracts themselves. By allowing multiple Chainlinks to evaluate the same data before it becomes a trigger, we eliminate any one point of failure and maintain the overall value of a smart contract that is highly secure, reliable, and trustworthy."
     },
     "Services": [{
             "icon": "fa fa-wordpress",
