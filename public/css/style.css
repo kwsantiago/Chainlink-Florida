@@ -66,6 +66,7 @@ hr {
 }
 /* Navigation */
 #menu {
+  margin: 11px;
 	padding: 15px;
 	transition: all 0.8s;
 }
@@ -75,8 +76,12 @@ hr {
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
 #menu img{
-	width: 75px;
-	border-radius: 50%;
+  position: relative;
+  width: 85;
+  margin:-15;
+  left: 283;
+  top: 50px;
+  margin-top: -60px;
 }
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
