@@ -74,6 +74,10 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
+#menu img{
+	width: 75px;
+	border-radius: 50%;
+}
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
 	font-size: 25px;

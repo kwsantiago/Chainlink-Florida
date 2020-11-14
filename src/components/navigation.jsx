@@ -4,6 +4,7 @@ export class Navigation extends Component {
   render() {
     return (
       <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+            <div> <img src="img/logo.jpg" alt=""/></div>
         <div className="container">
           <div className="navbar-header">
             <button
@@ -46,11 +47,6 @@ export class Navigation extends Component {
               <li>
                 <a href="#portfolio" className="page-scroll">
                   Gallery
-                </a>
-              </li>
-              <li>
-                <a href="#team" className="page-scroll">
-                  Team
                 </a>
               </li>
               <li>
