@@ -95,10 +95,12 @@ hr {
 	text-transform: uppercase;
 	color: rgb(42, 90, 218);
 	font-size: 20px;
-	font-weight: 400;
+	font-weight: 501;
 	padding: 8px 2px;
 	border-radius: 0;
 	margin: 9px 20px 0 20px;
+  top: 25px;
+  bottom: 0px;
 }
 #menu.navbar-default .navbar-nav > li > a:after {
 	display: block;
