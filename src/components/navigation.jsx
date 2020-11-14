@@ -4,7 +4,6 @@ export class Navigation extends Component {
   render() {
     return (
       <nav id="menu" className="navbar navbar-default navbar-fixed-top">
-            <div> <img src="img/logo.jpg" alt=""/></div>
         <div className="container">
           <div className="navbar-header">
             <button
@@ -19,6 +18,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
+            <div> <img src="img/logo.jpg" alt=""/></div>
             <a className="navbar-brand page-scroll" href="#page-top">
               Chainlink Florida
             </a>{" "}
