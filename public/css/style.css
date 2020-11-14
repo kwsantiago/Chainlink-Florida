@@ -78,7 +78,8 @@ hr {
 #menu img{
   position: relative;
   width: 85;
-  right: 85px;
+  right: 0px;
+  left: -84px;
   top: 58px;
   margin-top: -60px;
 }
