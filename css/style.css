@@ -659,7 +659,7 @@ color: #777;
 	and (max-device-width: 667px) 
 	and (-webkit-min-device-pixel-ratio: 2) { 
 	  header .intro-text {
-		  margin-left: -37.5rem;
+		  margin-left: -30.5rem;
 	  }
   }
   
