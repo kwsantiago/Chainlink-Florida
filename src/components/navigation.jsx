@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import MediaQuery from "react-responsive";
 
 export class Navigation extends Component {
   render() {
@@ -20,7 +21,9 @@ export class Navigation extends Component {
             </button>
             <div> <img src="img/logo.jpg" alt=""/></div>
             <a className="navbar-brand page-scroll" href="#page-top">
-              Chainlink Florida
+            <MediaQuery query="(min-width: 1024px)">Chainlink Florida</MediaQuery>
+            <MediaQuery query="(max-width: 768px)">ChainLink FL</MediaQuery>
+
             </a>{" "}
           </div>
 
