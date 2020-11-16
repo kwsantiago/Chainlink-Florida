@@ -15,7 +15,7 @@ export class Contact extends Component {
                     will get back to you as soon as possible.
                   </p>
                 </div>
-                <form name="sentMessage" noValidate action="https://formspree.io/f/xjvpoozg" method="POST">
+                <form name="sentMessage" noValidate action="https://formspree.io/f/mgepzljy" method="POST">
                   <div className="row">
                     <div className="col-md-6">
                       <div className="form-group">
