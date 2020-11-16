@@ -6,11 +6,7 @@ export class Gallery extends Component {
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Gallery</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
-            </p>
+            <h2>Chainlink Resources</h2>
           </div>
           <div className="row">
             <div className="portfolio-items">
@@ -19,17 +15,18 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/01-large.jpg"
+                      href="https://chain.link/"
+                      target="_blank"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Official Chainlink Website</h4>
                       </div>
                       <img
-                        src="img/portfolio/01-small.jpg"
+                        src="img/gallery/01.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink Official Website"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -40,17 +37,18 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/02-large.jpg"
+                      href="https://chainlinkecosystem.com/"
+                      target="_blank"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Chainlink Ecosystem</h4>
                       </div>
                       <img
-                        src="img/portfolio/02-small.jpg"
+                        src="img/gallery/02.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink Ecosystem"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -61,17 +59,18 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/03-large.jpg"
+                      href="https://blog.chain.link/"
+                      target="_blank"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Chainlink Blog</h4>
                       </div>
                       <img
-                        src="img/portfolio/03-small.jpg"
+                        src="img/gallery/03.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink Blog"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -82,17 +81,18 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/04-large.jpg"
+                      href="https://events.chain.link/"
+                      target="_blank"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Offical Chainlink Events</h4>
                       </div>
                       <img
-                        src="img/portfolio/04-small.jpg"
+                        src="img/gallery/04.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink Events"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -103,17 +103,18 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/05-large.jpg"
+                      href="https://www.chainlinklabs.com/"
+                      target="_blank"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Chainlink Labs</h4>
                       </div>
                       <img
-                        src="img/portfolio/05-small.jpg"
+                        src="img/gallery/05.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink Labs"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -124,17 +125,17 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/06-large.jpg"
-                      title="Project Title"
+                      href="https://chainlinkecosystem.com/videos/"
+                      target="_blank"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>Chainlink Videos</h4>
                       </div>
                       <img
-                        src="img/portfolio/06-small.jpg"
+                        src="img/gallery/06.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink Videos"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -145,17 +146,17 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/07-large.jpg"
-                      title="Project Title"
+                      href="https://chainlinkecosystem.com/factsheet/"
+                      target="_blank"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>Chainlink Factsheets</h4>
                       </div>
                       <img
-                        src="img/portfolio/07-small.jpg"
+                        src="img/gallery/07.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink Fact Sheet"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -166,17 +167,17 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/08-large.jpg"
-                      title="Project Title"
+                      href="https://docs.chain.link/docs"
+                      target="_blank"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Official Chainlink Docs</h4>
                       </div>
                       <img
-                        src="img/portfolio/08-small.jpg"
+                        src="img/gallery/08.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink docs"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -187,17 +188,17 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/09-large.jpg"
-                      title="Project Title"
+                      href="https://www.reputation.link/"
+                      target="_blank"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Chainlink Reputation</h4>
                       </div>
                       <img
-                        src="img/portfolio/09-small.jpg"
+                        src="img/gallery/09.png"
                         className="img-responsive"
-                        alt="Project Title"
+                        alt="Chainlink Reputation"
                       />{" "}
                     </a>{" "}
                   </div>
