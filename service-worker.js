@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Chainlink-Florida/precache-manifest.478f6b516d31995224fdb23c616c5d36.js"
+  "/Chainlink-Florida/precache-manifest.3dbe5363893b6b9a871cf71d29408734.js"
 );
 
 self.addEventListener('message', (event) => {
