@@ -49,7 +49,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#portfolio" className="page-scroll">
-                  Gallery
+                  Resources
                 </a>
               </li>
               <li>
