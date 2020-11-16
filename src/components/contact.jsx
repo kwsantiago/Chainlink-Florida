@@ -76,14 +76,6 @@ export class Contact extends Component {
               <div className="contact-item">
                 <p>
                   <span>
-                    <i className="fa fa-phone"></i> Phone
-                  </span>{" "}
-                  {this.props.data ? this.props.data.phone : "loading"}
-                </p>
-              </div>
-              <div className="contact-item">
-                <p>
-                  <span>
                     <i className="fa fa-envelope-o"></i> Email
                   </span>{" "}
                   {this.props.data ? this.props.data.email : "loading"}
@@ -95,20 +87,8 @@ export class Contact extends Component {
                 <div className="social">
                   <ul>
                     <li>
-                      <a
-                        href={this.props.data ? this.props.data.facebook : "/"}
-                      >
-                        <i className="fa fa-facebook"></i>
-                      </a>
-                    </li>
-                    <li>
                       <a href={this.props.data ? this.props.data.twitter : "/"}>
                         <i className="fa fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
-                        <i className="fa fa-youtube"></i>
                       </a>
                     </li>
                   </ul>
@@ -120,10 +100,7 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
-              </a>
+              &copy; 2020 Chainlink Florida
             </p>
           </div>
         </div>
