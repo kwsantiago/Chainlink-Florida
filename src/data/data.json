@@ -10,34 +10,34 @@
         "paragraph2": "Chainlink’s decentralized oracle network provides the same security guarantees as smart contracts themselves. By allowing multiple Chainlinks to evaluate the same data before it becomes a trigger, we eliminate any one point of failure and maintain the overall value of a smart contract that is highly secure, reliable, and trustworthy."
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-server",
+            "name": "Nodes as a Service",
+            "text": "Don't know how to run a node? We'll handle all the technicals and manage a node for you."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-link",
+            "name": "Staking Pools",
+            "text": "Stake with our pools to gain passive LINK without worrying about the complexities of running your own node."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-building",
+            "name": "Enterprise Integeration",
+            "text": "We'll help your enterprise integrate Chainlink to monetize your data and provide essential infrastructure for your needs."
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-code",
+            "name": "External Adapters",
+            "text": "We'll build custom external adapters to suit your API or data endpoints."
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-user",
+            "name": "Consultation",
+            "text": "Don't understand Chainlink? Come to us and we can guide you through how it works."
         },
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-laptop",
+            "name": "Educational Demos",
+            "text": "We can teach you how to use Chainlink in your smart contarcts to connect them to external data."
         }
 
 
@@ -94,12 +94,9 @@
         }
     ],
     "Contact": {
-        "address": "PO BOX 341858 Tampa, FL 341858",
-        "phone": "888-340-INET",
+        "address": "Tampa, FL",
         "email": "linkup@chainlinkflorida.com",
-        "facebook": "fb.com",
-        "twitter": "https://twitter.com/ChainlinkFL",
-        "youtube": "youtube.com"
+        "twitter": "https://twitter.com/ChainlinkFL"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
