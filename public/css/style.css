@@ -126,7 +126,6 @@ hr {
 	bottom: -1px !important;
 	width: 100% !important;
 	height: 2px !important;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
 	content: "" !important;
 	transition: width 0.2s !important;
 }
@@ -364,6 +363,12 @@ header .intro-text {
 	overflow: hidden;
 	position: relative;
 	margin: 0;
+}
+.hover-bg .portfolio-item .hover-text{
+   -webkit-transition: 0.6s ease-in-out left;
+    -moz-transition: 0.6s ease-in-out left;
+    -o-transition: 0.6s ease-in-out left;
+    transition: 0.6s ease-in-out left;
 }
 .hover-bg .hover-text {
 	position: absolute;
