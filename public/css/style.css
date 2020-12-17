@@ -87,10 +87,11 @@ hr {
 }
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	font-size: 25px;
+	font-size: 22px;
 	font-weight: 700;
 	color: rgb(42, 90, 218);
 	text-transform: uppercase;
+	margin-top: .15rem;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;

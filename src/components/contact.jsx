@@ -9,7 +9,7 @@ export class Contact extends Component {
             <div className="col-md-8">
               <div className="row">
                 <div className="section-title">
-                  <h2>Link Up</h2>
+                  <h2>LinkUp Florida</h2>
                   <p>
                     Please fill out the form below to send us an email and we
                     will get back to you as soon as possible.
@@ -100,7 +100,7 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 Chainlink Florida
+              &copy; 2020 LinkUp Florida
             </p>
           </div>
         </div>

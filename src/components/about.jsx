@@ -9,9 +9,9 @@ export class about extends Component {
             <div className="col-xs-12 col-md-6"> <img src="img/about.png" className="img-responsive" alt=""/> </div>
             <div className="col-xs-12 col-md-6">
               <div className="about-text">
-                <h2>About Chainlink</h2>
+                <h2>About Linkup FL</h2>
                 <p>{this.props.data ? this.props.data.paragraph1 : 'loading...'}</p>
-                <h3>Why Chainlink?</h3>
+                <h3>Why Linkup FL</h3>
                 <p>{this.props.data ? this.props.data.paragraph2 : 'loading...'}</p>
               </div>
             </div>

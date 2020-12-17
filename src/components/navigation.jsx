@@ -21,8 +21,8 @@ export class Navigation extends Component {
             </button>
             <div> <img src="img/logo.jpg" alt=""/></div>
             <a className="navbar-brand page-scroll" href="#page-top">
-            <MediaQuery query="(min-width: 1024px)">Chainlink Florida</MediaQuery>
-            <MediaQuery query="(max-width: 768px)">ChainLink FL</MediaQuery>
+            <MediaQuery query="(min-width: 1024px)">LinkUp FLORIDA</MediaQuery>
+            <MediaQuery query="(max-width: 768px)">LinkUp FL</MediaQuery>
 
             </a>{" "}
           </div>
