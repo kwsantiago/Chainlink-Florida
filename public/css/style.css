@@ -66,11 +66,15 @@ hr {
 	margin-bottom: 20px;
 	border: 0;
 }
+.navbar-right {
+	margin-top: -.9rem;
+}
 /* Navigation */
 #menu {
   margin: 11px;
 	padding: 15px;
 	transition: all 0.8s;
+	padding-bottom: 25px
 }
 #menu.navbar-default {
 	background-color: #fff;
@@ -91,7 +95,7 @@ hr {
 	font-weight: 700;
 	color: rgb(42, 90, 218);
 	text-transform: uppercase;
-	margin-top: .15rem;
+	margin-top: -0.8rem;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
@@ -625,6 +629,9 @@ color: #777;
 	#menu a.navbar-brand {
 		padding: 15px 7px;
 		margin-left: 50px;
+		margin-top: 0rem;
+    	padding-bottom: 25px;
+
 	}
 	#menu img {
 		position: relative;
