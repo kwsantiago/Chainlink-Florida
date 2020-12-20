@@ -11,7 +11,7 @@ export class about extends Component {
               <div className="about-text">
                 <h2>About Linkup FL</h2>
                 <p>{this.props.data ? this.props.data.paragraph1 : 'loading...'}</p>
-                <h3>Why Linkup FL</h3>
+                <h3>Why Chainlink?</h3>
                 <p>{this.props.data ? this.props.data.paragraph2 : 'loading...'}</p>
               </div>
             </div>

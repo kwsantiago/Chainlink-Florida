@@ -6,8 +6,8 @@
 
     },
     "About": {
-        "paragraph1": "Building a truly valuable smart contract requires the use of multiple inputs to prove contractual performance, as well as multiple outputs to affect outside systems and/or send payment to complete the smart contract. Chainlink provides your smart contract with the inputs and outputs it needs to reach its full potential.",
-        "paragraph2": "Chainlink’s decentralized oracle network provides the same security guarantees as smart contracts themselves. By allowing multiple Chainlinks to evaluate the same data before it becomes a trigger, we eliminate any one point of failure and maintain the overall value of a smart contract that is highly secure, reliable, and trustworthy."
+        "paragraph1": "LinkUp Florida is a blockchain consulting group highly focused on accelerating smart contract adoption by connecting enterprise systems to distributed ledger technologies and developing innovative solutions for the Chainlink ecosystem. LinkUp leverages a cross-functional team of experts who are passionate about building out the Chainlink ecosystem and supporting the needs of the community as a whole.",
+        "paragraph2": "Building a truly valuable smart contract requires the use of multiple inputs to prove contractual performance, as well as multiple outputs to affect outside systems and/or send payment to complete the smart contract. Chainlink provides your smart contract with the inputs and outputs it needs to reach its full potential."
     },
     "Services": [{
             "icon": "fa fa-server",
